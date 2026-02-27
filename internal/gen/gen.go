@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/roslamir/ep3gen/internal/fileutil"
-	"github.com/roslamir/ep3gen/internal/parm"
+	"github.com/roslamir/epubgen/internal/fileutil"
+	"github.com/roslamir/epubgen/internal/parm"
 )
 
 const (

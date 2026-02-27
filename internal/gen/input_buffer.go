@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/roslamir/ep3gen/internal/fileutil"
+	"github.com/roslamir/epubgen/internal/fileutil"
 )
 
 // SectionData holds the attributes for a section.
